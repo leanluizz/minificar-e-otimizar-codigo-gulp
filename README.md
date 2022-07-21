@@ -10,7 +10,7 @@
 <li> 3 - Open the code and see the magic of GulpJS </li>
 </ul>
 
-<h1>You must be asking yourselfu...what is GulpJS?</h1>
+<h1>You must be asking yourself...what is GulpJS?</h1>
 
 I describe to you, GulpJS is a Framework for reducting codes made in JS in one line
  
