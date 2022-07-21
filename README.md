@@ -21,11 +21,11 @@ If you know NodeJS, you know use the require method, in what you dependencies be
 <ul type="1">
 <li>require(allmethods of package.json for you need)</li>
 
-<li>Ue gulp.src() for cathching your filles for gulping</li>
+<li>Use gulp.src() for cathching your filles for gulping</li>
 
 <li>Use .pipe() how a promisse of ESS6</li>
 
-Ok lets start gulping
+<li type="none">Ok lets start gulping </li>
 
 <li>Now in .pipe() you play yours taks like gulp.concat() for mini-code or gulp.dest() for trade your directory</li>
 
