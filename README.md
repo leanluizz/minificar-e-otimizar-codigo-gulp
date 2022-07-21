@@ -14,7 +14,7 @@
 
 I describe to you, GulpJS is a Framework for reducting codes made in JS in one line
  
-If you know NodeJS, you know what use the require method, in what you dependencies be installed in PackageJSON
+If you know NodeJS, you know use the require method, in what you dependencies be installed in PackageJSON
 
 <h2>Basic commands of GulpJS</h2>
 
